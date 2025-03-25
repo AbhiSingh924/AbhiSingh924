@@ -27,7 +27,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbhiSingh924&show_icons=true&locale=en&layout=compact" alt="AbhiSingh924" /></p>
 
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhiSingh924&" alt="AbhiSingh924" /></p>
+<p align="center"><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=AbhiSingh924&" alt="AbhiSingh924" /></p>
 <p align="center">
   <a href="https://github.com/AbhiSingh924">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhiSingh924&theme=radical" alt=""/>
